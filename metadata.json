@@ -1,0 +1,8 @@
+{
+  "name": "Copy of OptiScale Digital Agency",
+  "description": "A high-converting, professional website for OptiScale Digital, a UK-based agency specializing in web design, digital marketing, and AI automation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
